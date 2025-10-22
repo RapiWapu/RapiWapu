@@ -17,7 +17,7 @@ I’m still a **beginner**, learning one bug and one coffee at a time ☕🐛
 ---
 
 ## 💾 Tech Arsenal
-```bash
+bash
 > Learning: Python | C++ | JavaScript  
 > Tools: VS Code | Unity | Canva  
 > Interests: Game Dev | Backend Dev | AI | Problem Solving
@@ -51,3 +51,5 @@ while True:
 💻 Dark mode is my safe place
 
 ---
+
+```bash
