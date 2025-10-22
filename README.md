@@ -2,8 +2,19 @@
 
 > “Every bug is just a boss battle waiting to be defeated.” 🎮  
 
-Hey there! I’m **Raffi**, a high school student (currently Grade 11 🇮🇩) who’s just started exploring the wild world of programming!  
-I’m still a **beginner**, learning one bug and one coffee at a time ☕🐛  
+Hi! I'm **RapiWapu**, but you can call me **Raffi** — a 16-year-old high school student from **Indonesia** 🇮🇩.  
+I’m still a complete **beginner** in the world of programming, but I have big dreams:  
+- to become a **Full Stack Engineer** and earn a good living doing what I love 💻💡
+- I’m also dreaming of creating my own 2D detective game with Unity —  currently learning everything step by step to make it real. 🎮
+
+Right now, I’m using this GitHub to **build my own portfolio** and track my learning journey.  
+I’m currently learning **Backend Development** using **Python**, **JavaScript**, and **C++**  
+(C++ is also the language I use for my **Informatics Olympiad / OSN** 🧠).
+
+Once I get comfortable with backend, I’ll move on to learn **Frontend** —  
+starting with **HTML** and **CSS**.  
+Step by step, slowly but surely — and hopefully, I can stay consistent along the way 🚀
+
 
 ---
 
@@ -12,7 +23,8 @@ I’m still a **beginner**, learning one bug and one coffee at a time ☕🐛
 - 💡 Once I master the backend, I’ll move on to **Frontend** and aim to become a **Full Stack Engineer** someday 🚀  
 - 🕹️ Working on my first game: *“My Past, My Enemy”* — a 2D mystery visual novel  
 - 😂 Running on logic errors and hope 
-- 😺 Often judged by my cats whenever my code doesn’t compile  
+- 😺 I dream of having a cat by my side someday —to help me hunt down bugs in my code. 🐾
+ 
 
 ---
 
