@@ -22,14 +22,14 @@ I’m still a **beginner**, learning one bug and one coffee at a time ☕🐛
 > Tools: VS Code | Unity | Canva  
 > Interests: Game Dev | Backend Dev | AI | Problem Solving  
 
-🔁 Life Loop
+## 🔁 Life Loop
 while True:
     learn()
     break_stuff()
     google_fixes()
     repeat()
 
-🧩 Current Goals
+## 🧩 Current Goals
 | Goal                         | Progress |
 | ---------------------------- | -------- |
 | Learn Backend Basics         | 🟩🟩⬜⬜⬜  |
@@ -38,7 +38,7 @@ while True:
 | Become a Full Stack Engineer | ⬜⬜⬜⬜⬜    |
 | Sleep on time                | ❌❌❌❌❌    |
 
-🎨 Fun Facts
+## 🎨 Fun Facts
 🐾 I’m still in high school, but already coding my way toward big dreams
 💥 Sometimes my code works, and I have no idea why
 🧩 I learn best by breaking things (intentionally… sometimes)
