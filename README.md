@@ -44,13 +44,14 @@ bash
 
 ---
 
-## 🌀 Life Loop
-```bash
-while True:
+# 🌀 My Life Loop
+``` 
+while alive:
     learn()
-    break_stuff()
-    google_fixes()
-    repeat()
+    fail()
+    reflect()
+    fix()
+    grow()
 ```
 ---
 
