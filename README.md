@@ -24,13 +24,14 @@ bash
 
 ---
 
-## 🔁 Life Loop
+## 🌀 Life Loop
+```bash
 while True:
     learn()
     break_stuff()
     google_fixes()
     repeat()
-
+```
 ---
 
 ## 🧩 Current Goals
@@ -51,5 +52,3 @@ while True:
 💻 Dark mode is my safe place
 
 ---
-
-```bash
