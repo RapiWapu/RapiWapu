@@ -46,9 +46,13 @@ while True:
 ---
 
 ## 🎨 Fun Facts
-🐾 I’m still in high school, but already coding my way toward big dreams
-💥 Sometimes my code works, and I have no idea why
-🧩 I learn best by breaking things (intentionally… sometimes)
-💻 Dark mode is my safe place
+- 🐾 I’m still in high school, but already coding my way toward big dreams
+- 💥 Sometimes my code works, and I have no idea why
+- 🧩 I learn best by breaking things (intentionally… sometimes)
+- 💻 Dark mode is my safe place
+
+---
+
+► /play crickets
 
 ---
