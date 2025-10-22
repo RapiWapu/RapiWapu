@@ -20,7 +20,9 @@ I’m still a **beginner**, learning one bug and one coffee at a time ☕🐛
 ```bash
 > Learning: Python | C++ | JavaScript  
 > Tools: VS Code | Unity | Canva  
-> Interests: Game Dev | Backend Dev | AI | Problem Solving  
+> Interests: Game Dev | Backend Dev | AI | Problem Solving
+
+---
 
 ## 🔁 Life Loop
 while True:
@@ -28,6 +30,8 @@ while True:
     break_stuff()
     google_fixes()
     repeat()
+
+---
 
 ## 🧩 Current Goals
 | Goal                         | Progress |
@@ -38,8 +42,12 @@ while True:
 | Become a Full Stack Engineer | ⬜⬜⬜⬜⬜    |
 | Sleep on time                | ❌❌❌❌❌    |
 
+---
+
 ## 🎨 Fun Facts
 🐾 I’m still in high school, but already coding my way toward big dreams
 💥 Sometimes my code works, and I have no idea why
 🧩 I learn best by breaking things (intentionally… sometimes)
 💻 Dark mode is my safe place
+
+---
