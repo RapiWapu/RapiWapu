@@ -52,7 +52,3 @@ while True:
 - 💻 Dark mode is my safe place
 
 ---
-
-► /play crickets
-
----
