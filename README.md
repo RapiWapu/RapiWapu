@@ -15,6 +15,14 @@ Once I get comfortable with backend, I’ll move on to learn **Frontend** —
 starting with **HTML** and **CSS**.  
 Step by step, slowly but surely — and hopefully, I can stay consistent along the way 🚀
 
+---
+
+### 💻 My Coding Journey
+I first discovered programming back in elementary school.  
+My first language was **C#**, and I learned it by watching **Brackeys’ YouTube channel** while creating my very first game in **Unity**.  
+
+After finishing that project, I kinda lost my direction — I didn’t know whether to keep making games or keep learning to code.  
+But now, I’ve decided to start all over again, this time with a clear plan and purpose.  
 
 ---
 
@@ -60,7 +68,8 @@ while True:
 ## 🎨 Fun Facts
 - 🐾 I’m still in high school, but already coding my way toward big dreams
 - 💥 Sometimes my code works, and I have no idea why
-- 🧩 I learn best by breaking things (intentionally… sometimes)
-- 💻 Dark mode is my safe place
+- 💻🔥 I break my code a lot, but hey — that’s how I learn! 
+- ⚫ Dark mode is my safe place
+- 🌱💬 I don’t have many friends at school who are into programming like me, so I’m hoping to find some here — people I can learn from and grow together with. 
 
 ---
