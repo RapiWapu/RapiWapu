@@ -37,7 +37,7 @@ But now, I’ve decided to start all over again, this time with a clear plan and
 ---
 
 ## 💾 Tech Arsenal
-bash
+
 > Learning: Python | C++ | JavaScript  
 > Tools: VS Code | Unity | Canva  
 > Interests: Game Dev | Backend Dev | AI | Problem Solving
